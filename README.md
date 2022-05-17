@@ -49,4 +49,5 @@ This repository is licensed under the [MIT license](./LICENSE).
 ## Questions
 
 If you have any questions, please contact me at: 
-Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). GitHub: [phwang93](https://github.com/phwang93). 
+* Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). 
+* GitHub: [phwang93](https://github.com/phwang93). 
