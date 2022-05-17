@@ -1,6 +1,6 @@
 # Homework-9 - ReadMe-Generator
 
-Create a Profession ReadMe Generator by running "node index.js"
+Create a Professional ReadMe Generator by running "node index.js"
 
 ## Criteria
  Create a command-line README.md generator with the following:
