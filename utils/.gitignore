@@ -1,0 +1,5 @@
+# Git dile to ignore the followwing dependencies:
+
+.DS_Store/
+
+node_modules/
