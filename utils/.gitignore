@@ -1,4 +1,4 @@
-# Git dile to ignore the followwing dependencies:
+# Git file to ignore the following dependencies:
 
 .DS_Store/
 
