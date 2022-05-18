@@ -31,7 +31,7 @@ Create a Professional ReadMe Generator by running "node index.js"
 To install dependencies, run the following in your terminal:
 
 `
-npm i
+npm i 
 `
 
 ## Usage
