@@ -2,13 +2,22 @@
 
 Create a Professional ReadMe Generator by running "node index.js"
 
-## Criteria
+## Description
  Create a command-line README.md generator with the following:
 
 - Using "Inquirer package": https://www.npmjs.com/package/inquirer
 - Invoke the application using "node index.js"
 - Include Demo Walkthrough Video of the APP (.gif or a video): Screencastify, or convert .MOV to .GIF
 - Screenshot of a sample of README.md file generated
+
+## Generator Demo 
+
+Video Demo for the application:
+
+
+### ReadMe Sample Demo
+
+
 
 ## Table of Contents
 
@@ -50,4 +59,4 @@ This repository is licensed under the [MIT license](./LICENSE).
 
 If you have any questions, please contact me at: 
 * Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). 
-* GitHub: [phwang93](https://github.com/phwang93). 
+* GitHub: [phwang93](https://github.com/phwang93).
