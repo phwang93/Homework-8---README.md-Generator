@@ -10,59 +10,59 @@ function generateMd(data) {
     // return md contents
     return `# ${data.title}
     
-    ${data.licenseUrl}
+${data.licenseUrl}
     
-    ## Description
+## Description
 
-    ${data.description}
+${data.description}
 
-    ## Table of Contents
+## Table of Contents
 
-    * [Resources](#resources)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contribution](#contribution)
-    * [Tests](#tests)
-    * [Questions](#questions)
+* [Resources](#resources)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [Questions](#questions)
     
 
-    ## Resources
+## Resources
 
-    * [Node.js](https://nodejs.org/)
-    * [Inquirer.js](https://www.npmjs.com/package/inquirer)
+* [Node.js](https://nodejs.org/)
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
     
-    ## Installation 
+## Installation 
 
-    To install dependencies, run the following in your terminal:
+To install dependencies, run the following in your terminal:
 
-    \`
-    ${data.installation}
-    \`
+\`
+${data.installation}
+\`
 
-    ## Usage
+## Usage
 
-    ${data.usage}
+${data.usage}
 
-    ## License
+## License
 
-    This repository is licensed under the ${data.license}
+This repository is licensed under the ${data.license}
 
-    ## Contribution
+## Contribution
 
-    ${data.contribution}
+${data.contribution}
 
-    ## Tests
+## Tests
 
-    To run tests, run the following in your terminal:
+To run tests, run the following in your terminal:
 
-    \`
-    ${data.tests}
-    \`
+\`
+${data.tests}
+\`
 
-    ## Questions
+## Questions
 
-    If you have any questions, please contact me at: 
+If you have any questions, please contact me at: 
 * Email: [${data.email}](mailto:${data.email}). 
 * GitHub: [${data.username}](${data.username}).
      

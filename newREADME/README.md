@@ -1,58 +1,58 @@
-# Hello
+# ReadMe Generator
     
-    [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
-    ## Description
+## Description
 
-    created a new readme
+README.md Generator
 
-    ## Table of Contents
+## Table of Contents
 
-    * [Resources](#resources)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contribution](#contribution)
-    * [Tests](#tests)
-    * [Questions](#questions)
+* [Resources](#resources)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [Questions](#questions)
     
 
-    ## Resources
+## Resources
 
-    * [Node.js](https://nodejs.org/)
-    * [Inquirer.js](https://www.npmjs.com/package/inquirer)
+* [Node.js](https://nodejs.org/)
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
     
-    ## Installation 
+## Installation 
 
-    To install dependencies, run the following in your terminal:
+To install dependencies, run the following in your terminal:
 
-    `
-    npm i
-    `
+`
+npm i
+`
 
-    ## Usage
+## Usage
 
-    Generate ReadMe.md using node.js
+Generate ReadMe.md using node.js
 
-    ## License
+## License
 
-    This repository is licensed under the GNU v3
+This repository is licensed under the MIT
 
-    ## Contribution
+## Contribution
 
-    Just me 🙂!
+Just me 🙂!
 
-    ## Tests
+## Tests
 
-    To run tests, run the following in your terminal:
+To run tests, run the following in your terminal:
 
-    `
-    npm run test
-    `
+`
+npm run test
+`
 
-    ## Questions
+## Questions
 
-    If you have any questions, please contact me at: 
+If you have any questions, please contact me at: 
 * Email: [Email](mailto:Email). 
 * GitHub: [Github/username](Github/username).
      
