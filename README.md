@@ -14,15 +14,24 @@ Create a Professional ReadMe Generator by running "node index.js"
 
 Video Demo for the application:
 
+<p align = "center">
+<img alt="demo" src="./assets/demo/demo.gif">
+</p>
 
 ### ReadMe Sample Demo
+
+<p align = "center">
+<img alt="screenshot" src="./assets/demo/SampleReadMe.png">
+</p>
 
 
 
 ## Table of Contents
 
 - [Homework-9 - ReadMe-Generator](#homework-9---readme-generator)
-  - [Criteria](#criteria)
+  - [Description](#description)
+  - [Generator Demo](#generator-demo)
+    - [ReadMe Sample Demo](#readme-sample-demo)
   - [Table of Contents](#table-of-contents)
   - [Resources](#resources)
   - [Installation](#installation)
