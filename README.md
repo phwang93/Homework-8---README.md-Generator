@@ -48,17 +48,17 @@ Video Demo for the application:
 
 To install dependencies, run the following in your terminal:
 
-`
+```
 npm i 
-`
+```
 
 ## Usage
 
 After installations are completed, run the app with: 
 
-`
+```
 node index.js
-`
+```
 
 ## License
 
