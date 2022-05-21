@@ -1,5 +1,3 @@
-# Git file to ignore the following dependencies:
-
 .DS_Store/
 
 node_modules/
