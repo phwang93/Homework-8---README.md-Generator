@@ -15,7 +15,7 @@ Create a Professional ReadMe Generator by running "node index.js"
 Video Demo for the application:
 
 <p align = "center">
-[![Demo9](https://res.cloudinary.com/marcomontalbano/image/upload/v1653441498/video_to_markdown/images/google-drive--1rRrTxF8uCo8Hut4psKk6NrV_PjV8RREU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1rRrTxF8uCo8Hut4psKk6NrV_PjV8RREU/view?usp=sharing "Demo9")
+<img alt="READM Demo" src="./assets/demo/demo.gif">
 </p>
 
 ### ReadMe Sample Demo
